@@ -1,0 +1,13 @@
+﻿  game.cpp
+D:\_facultate\PCLP2\Xonder\Xonder\game.cpp(111,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gameBoard.cpp
+  inputs.cpp
+  manual.cpp
+  Xonder.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\_facultate\PCLP2\Xonder\Xonder\manual.cpp(82): warning C4715: 'GameRules::display': not all control paths return a value
+D:\_facultate\PCLP2\Xonder\Xonder\game.cpp(352): warning C4715: 'Game::gameLoop': not all control paths return a value
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Xonder.vcxproj -> D:\_facultate\PCLP2\Xonder\x64\Release\Xonder.exe
